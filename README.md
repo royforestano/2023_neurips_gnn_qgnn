@@ -16,6 +16,6 @@ There are also
 6. Preprocessing (Python)
 7. Saved sorted numpy arrays for testing (2.-5.).
 
-To run the first notebook (1.), you need to download and uncomment the first few lines reading in the 20 data files corresponding to the Pythia 8 files.
+To run the first notebook (1.), you need to download the 20 Pythia 8 files and uncomment the first few lines reading in the 20 data files.
 
 The other notebooks (2.-5.) can be run using (6.-7.).
