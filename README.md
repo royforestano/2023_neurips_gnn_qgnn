@@ -16,6 +16,6 @@ There are also
 6. Preprocessing (Python file in utils directory)
 7. Saved sorted numpy arrays for testing (2.-5.)  (numpy arrays in data and roc_data directories).
 
-To run the first notebook (1.), you need to download the 20 Pythia 8 files and uncomment the first few lines reading in the 20 data files.
+To run the first notebook (1.), you need to download the 20 Pythia 8 [https://zenodo.org/records/3164691] files and uncomment the first few lines reading in the 20 data files.
 
 The other notebooks (2.-5.) can be run using (6.-7.).
