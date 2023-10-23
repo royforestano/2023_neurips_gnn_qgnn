@@ -14,8 +14,10 @@ There are five notebooks in this repository based on:
 There are also
 
 6. Preprocessing (Python file in utils directory)
-7. Saved sorted numpy arrays for testing (2.-5.)  (numpy arrays in data and roc_data directories).
+7. Saved sorted numpy arrays for testing (2.-4.)  (numpy arrays in data directory).
+8. Saved sorted numpy arrays for testing (5.)  (numpy arrays in roc_data directory).
 
 To run the first notebook (1.), you need to download the 20 Pythia 8 [https://zenodo.org/records/3164691] files and uncomment the first few lines reading in the 20 data files.
 
-The other notebooks (2.-5.) can be run using (6.-7.).
+The other notebooks (2.-4.) can be run using (6.-7.).
+The notebook (5.) can be run using (8.).
